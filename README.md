@@ -8,7 +8,7 @@
 
 (3) Then type 'pip install -r requirements.txt'
 
-(2) Run main.py and Voila! There you have it!
+(4) Run main.py and Voila! There you have it!
 ```
 
 ```
